@@ -1,0 +1,14 @@
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\obj\Debug\net8.0\ClassesHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\obj\Debug\net8.0\ClassesHomeWork.AssemblyInfoInputs.cache
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\obj\Debug\net8.0\ClassesHomeWork.AssemblyInfo.cs
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\obj\Debug\net8.0\ClassesHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\bin\Debug\net8.0\ClassesHomeWork.exe
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\bin\Debug\net8.0\ClassesHomeWork.deps.json
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\bin\Debug\net8.0\ClassesHomeWork.runtimeconfig.json
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\bin\Debug\net8.0\ClassesHomeWork.dll
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\bin\Debug\net8.0\ClassesHomeWork.pdb
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\obj\Debug\net8.0\ClassesHomeWork.dll
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\obj\Debug\net8.0\refint\ClassesHomeWork.dll
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\obj\Debug\net8.0\ClassesHomeWork.pdb
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\obj\Debug\net8.0\ClassesHomeWork.genruntimeconfig.cache
+C:\Users\nenas\source\repos\ClassesHomeWork\ClassesHomeWork\obj\Debug\net8.0\ref\ClassesHomeWork.dll
